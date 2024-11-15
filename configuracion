@@ -1,0 +1,9 @@
+CREATE TABLE users (
+    id INT AUTO_INCREMENT,
+    nombre VARCHAR(100),
+    apellido VARCHAR(100),
+    PRIMARY KEY (id)
+);
+
+url del index:
+http://localhost/AdminLTE-3.2.0/views/php/
